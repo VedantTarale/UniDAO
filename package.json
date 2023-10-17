@@ -1,0 +1,14 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "- Navigate to `Week2 Branch` to find the submission for Week2 - Navigate to `Week4_NFT_Metaverse` Branch to find the submission for Week 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-core": "^0.18.1"
+  }
+}
